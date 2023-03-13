@@ -19,3 +19,6 @@ print (str)
 
 str = "bonjour Monde!"
 print(str)
+
+str = "- comment tournez-vous ?"
+print( "\n"+str )
