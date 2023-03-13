@@ -16,3 +16,5 @@ if __name__ == '__main__':
     main()
 str = "hello world"
 print (str)
+str = "bonjour Monde!"
+print(str)
